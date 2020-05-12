@@ -12,5 +12,5 @@ Important stuff are **Preferences.sublime-settings**, **.sublime-mousemap** and 
 Install
 ---
 
-    $ rm -rf ~/Library/Application \Support/Sublime\ Text\ 3
+    $ rm -rf ~/Library/Application\ Support/Sublime\ Text\ 3
     $ git clone https://github.com/katpadi/sublime-text-3 ~/Library/Application\ Support/Sublime\ Text\ 3
